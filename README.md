@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AnuragSonkar394
+- 👋 Hi, I’m Anurag Sonkar.
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning ReactJS.
 - 💞️ I’m looking to collaborate on my Project.
